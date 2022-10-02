@@ -36,4 +36,8 @@
   "material_theme_compact_sidebar": true,
   "material_theme_tree_headings": true,
   "material_theme_small_tab": true,
+  "ignored_packages":
+  [
+		"Vintage",
+  ],
 }
