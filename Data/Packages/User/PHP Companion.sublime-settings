@@ -1,0 +1,7 @@
+{
+  "use_sort_length": true,
+  "exclude_dir": [
+    "node_modules",
+    "storage",
+  ],
+}
