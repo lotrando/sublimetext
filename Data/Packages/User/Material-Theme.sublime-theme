@@ -1,0 +1,20 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+  "variables":
+  {
+  },
+  "rules": [
+    {
+      "class": "sidebar_label",
+      "font.face": "jetBrains Mono Semibold",
+      "font.size": 12,
+    },
+    {
+      "class": "sidebar_heading",
+      "font.face": "jetBrains Mono Bold",
+      "color": "#ffcb0e",
+      "font.bold": true,
+      "font.size": 14,
+    },
+  ],
+}
