@@ -24,4 +24,16 @@
     "dlig",
     "ss01"
   ],
+  "theme": "Material-Theme.sublime-theme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+  "material_theme_accent_lime": true,
+  "material_theme_accent_scrollbars": true,
+  "material_theme_accent_titlebar": true,
+  "material_theme_compact_panel": true,
+  "material_theme_small_statusbar": true,
+  "material_theme_titlebar": true,
+  "material_theme_big_fileicons": true,
+  "material_theme_compact_sidebar": true,
+  "material_theme_tree_headings": true,
+  "material_theme_small_tab": true,
 }
