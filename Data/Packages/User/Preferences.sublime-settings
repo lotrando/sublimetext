@@ -1,6 +1,7 @@
 //Lotrando's Sublime Text - Preferences.sublime-settings
  
 {
+  "folder_exclude_patterns": ["node_modules", "vendor", "storage"],
   "update_check": false,
   "margin": 2,
   "tab_size": 2,
@@ -27,7 +28,7 @@
   "theme": "Material-Theme.sublime-theme",
   "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
   "material_theme_accent_lime": true,
-  "material_theme_accent_scrollbars": true,
+  "material_theme_accent_scrollbars": false,
   "material_theme_accent_titlebar": true,
   "material_theme_compact_panel": true,
   "material_theme_small_statusbar": true,
