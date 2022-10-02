@@ -1,0 +1,27 @@
+//Lotrando's Sublime Text - Preferences.sublime-settings
+ 
+{
+  "update_check": false,
+  "margin": 0,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "highlight_line": true,
+  "caret_extra_top": 5,
+  "caret_extra_bottom": 5,
+  "caret_extra_width": 2,
+  "line_padding_top": 4,
+  "line_padding_bottom": 4,
+  "auto_complete_delay": 10,
+  "hide_new_tab_button": true,
+  "show_sidebar_button": false,
+  "hardware_acceleration": "opengl",
+  "remember_full_screen": true,
+  "remember_workspace": true,
+  "remember_layout": false,
+  "font_face": "jetBrains Mono Semibold",
+  "font_size": 14,
+  "font_options": [
+    "dlig",
+    "ss01"
+  ],
+}
